@@ -131,7 +131,7 @@
 				</configuration>
 			</plugin>
 
-			<defaultGoal>install</defaultGoal>
+			//<defaultGoal>install</defaultGoal>
 
 			<plugin>
 				<groupId>org.eclipse.jetty</groupId>
